@@ -1,3 +1,5 @@
+<!-- environtment setup start -->
+
 # LAB:
 # SEQUENCE-1
 # Python and ML libraries in Windows platform 
@@ -53,3 +55,28 @@ https://code.visualstudio.com/download
 10. To open Jupyter notebook, run the following command:
 
 Finally, you are ready to explore a new world
+
+**PROBLEM SETUP: python was not found and run without argument to install from the microsoft store**
+
+[solving tutorial](https://www.youtube.com/watch?v=Oc7h9CxRQLE)
+
+
+
+<!-- environment setup end -->
+
+
+
+
+
+<!-- literature review start -->
+# Literature Review
+
+[papers name](link)
+
+<!-- literature review end -->
+
+
+
+
+
+
